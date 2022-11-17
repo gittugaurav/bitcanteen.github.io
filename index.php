@@ -25,13 +25,13 @@
         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
         <li class="nav-item">
-        <a class="nav-link" href="#">Services</a>
+        <a class="nav-link" href="#">order</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="about.php">About</a>
       </li>
         <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
+        <a class="nav-link" href="#">Google Ads</a>
       </li>
 
    
@@ -54,7 +54,7 @@
     <div class="carousel-item active">
       <img src="images/GG7.jpg" alt="Los Angeles" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>PELO PASTA</h3>
+        <h3>OHH PASTA</h3>
         <p>Yummy</p>
       </div>   
     </div>
@@ -172,7 +172,7 @@
 
 <section class="my-5">
 	<div class="pt-5">
-		<h1 class="text-center">  SAMPARK KAREIN  </h1>
+		<h1 class="text-center">  CONTACT US </h1>
 	</div>
 
 	<div class="w-50 m-auto">
@@ -204,7 +204,7 @@
 
 <footer>
 	<div class=" bg-dark text-center text-capitalize">
-		<h5 class="py-3 text-white">@HOD BAKCHOD HAI</h5>
+		<h5 class="py-3 text-white">@BitCanteen</h5>
 	</div>
 </footer>
 
